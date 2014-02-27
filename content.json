@@ -1,1 +1,24 @@
-{}
+{
+    "sender": {
+        "street": "Willem Tellstraat",
+        "__comments__": [
+            {
+                "message": "Commentaar bij verzender"
+            }
+        ]
+    },
+    "receiver": {},
+    "stamps": [
+        {
+            "value": 1
+        },
+        {
+            "value": 2,
+            "__comments__": [
+                {
+                    "message": "Een mooie postzegel"
+                }
+            ]
+        }
+    ]
+}
