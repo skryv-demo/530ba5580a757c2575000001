@@ -16,9 +16,24 @@
             "value": 15,
             "__comments__": [
                 {
-                    "message": "Een mooie postzegel"
+                    "message": "Een mooie postzegelll"
+                },
+                {
+                    "message": "sfsf"
                 }
             ]
+        },
+        {
+            "__comments__": [
+                {
+                    "message": "A new comment"
+                }
+            ]
+        }
+    ],
+    "__comments__": [
+        {
+            "message": "dsdfdg"
         }
     ]
 }
