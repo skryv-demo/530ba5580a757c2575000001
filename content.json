@@ -5,7 +5,9 @@
             {
                 "message": "Commentaar bij verzender"
             }
-        ]
+        ],
+        "number": 123,
+        "city": "Gent"
     },
     "receiver": {},
     "stamps": [
