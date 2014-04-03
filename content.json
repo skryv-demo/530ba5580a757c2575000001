@@ -6,7 +6,7 @@
                 "message": "Commentaar bij verzender"
             }
         ],
-        "number": 123,
+        "number": 12345,
         "city": "Gent"
     },
     "receiver": {},
